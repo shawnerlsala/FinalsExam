@@ -18,5 +18,8 @@
         <activity android:name=".activity.PlayVideoActivity">
         </activity>
     </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
 
 </manifest>
