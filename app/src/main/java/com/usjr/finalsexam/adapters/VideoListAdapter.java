@@ -15,7 +15,7 @@ import com.usjr.finalsexam.entity.Video;
 import java.util.Collection;
 import java.util.List;
 
-public class VideoListAdapter extends BaseAdapter {
+public class   VideoListAdapter extends BaseAdapter {
 
     private Context     mContext;
     private List<Video> mVideos;
